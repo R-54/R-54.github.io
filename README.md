@@ -1,6 +1,6 @@
 ##Working projects i want to share.
 
-#Cronomether
+#Chronometer
 ##To see the working project on your desktop enter to:
 
 #HackerRank-Js
