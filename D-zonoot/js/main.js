@@ -2,8 +2,8 @@ var game = new Phaser.Game(800, 600, Phaser.AUTO, '', {preload: preload, create:
 var player;
 
 function preload(){
-    game.load.image('cave', '/assets/cave.jpg');
-    game.load.spritesheet('dude', '/assets/dude.png', 32, 48);
+    game.load.image('cave', 'assets/cave.jpg');
+    game.load.spritesheet('dude', 'assets/dude.png', 32, 48);
 }
 
 function create(){
