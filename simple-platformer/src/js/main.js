@@ -105,10 +105,10 @@ var mainState = {
 };
 
 var game = new Phaser.Game(
-    document.getElementById('game-screen').offsetWidth, // Container width.
-    document.getElementById('game-screen').offsetHeight, // Container height.
+    1100, // Container width.
+    450, // Container height.
     Phaser.AUTO, 
-    'game-screen' // Div where canvas is rendered.
+    '' // Div where canvas is rendered.
 );
 
 game.state.add('main', mainState);
