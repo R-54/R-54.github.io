@@ -6,12 +6,11 @@ body {
 #game-screen-container {
     display: -webkit-flex;
     display: flex;
-    justify-content: center;
     width: 100%;
-    height: 800px;
+    height: 500px;
 }
 
 #game-screen {
     width: 1060px;
-    height: 800px;
+    height: 500px;
 }
