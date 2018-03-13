@@ -14,8 +14,8 @@
 
 #CV
 ##To see the working project on your desktop enter to:
-##https://r-54.github.io/simple-platformer/index.html
+##https://r-54.github.io/cv/index.html
 
 #Cool home page
 ##To see the working project on your desktop enter to:
-##https://r-54.github.io/simple-platformer/index.html
+##https://r-54.github.io/cool-home-page/index.html
